@@ -1,0 +1,48 @@
+.red{
+    background-color: red;
+    width: 50px;
+    padding: 25px;
+    margin: 4px;
+    border-radius: 50%;
+
+}
+
+.yellow{
+    background-color:yellow;
+    
+    width: 50px;
+    padding: 25px;
+    margin: 4px;
+    border-radius: 50%;
+
+}
+
+.green{
+    background-color: green;
+    
+    width: 50px;
+    padding: 25px;
+    margin: 4px;
+    border-radius: 50%;
+
+}
+
+.on{
+    box-shadow: 0 0 30px rgb(242, 242, 163);
+}
+
+.container{
+   width: 70px;
+   background-color: black;
+   margin-top: 0px;
+   
+}
+
+.stick{
+    background-color: black;
+   margin-left: 725px;
+   margin-top: 7px;
+   width: 11px;
+   height: 70px;
+}
+
